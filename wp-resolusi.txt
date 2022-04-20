@@ -1,3 +1,4 @@
 WPU RESOLUSI
 - Belajar Web Developer
 - Fontend Developer
+- Membuat Tema Wordpress

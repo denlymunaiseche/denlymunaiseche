@@ -1,4 +1,6 @@
 RENCAN KONTEN
-- Wordpress  Dasar
+- Tutorial Wordpress Dasar
+  * Pengenalan Wordpress
+  * Membuat Wordpress di localhost
 - Elementor Pro
 - Website Wordpress
